@@ -1,11 +1,10 @@
 ---
-company: "McDonalds"
-role: "French Fryer"
-dateStart: "03/16/2018"
-dateEnd: "07/01/2019"
+company: "Useful Tools & Links"
+role: "Check out some of these great FREE online tools for web development, cyber security and so much more."
 ---
 
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure illo neque tempora, voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum.
 
-- Quibusdam, debitis voluptatum.
-- amet consectetur adipisicing elit. Iure illo neque tempora.
+<i class="fas fa-heart"></i> <a href="http://w3schools.com">This is a link</a>
+<i class="fas fa-heart"></i> <a href="http://w3schools.com">This is a link</a>
+<i class="fas fa-heart"></i> <a href="http://w3schools.com">This is a link</a>
